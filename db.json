@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "username": "test",
+      "email": "test@test.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "hany",
+      "email": "wew@w.com",
+      "password": "456",
+      "id": 3
+    }
+  ],
+  "doctor": [
+    {
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "subjects": [],
+  "login": [
+    {
+      "username": "hany",
+      "role": "students",
+      "userId": 3,
+      "id": 1
+    }
+  ]
+}
